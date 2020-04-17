@@ -1,0 +1,28 @@
+C:\Users\MICRO LAB 26\Desktop\CSharpProgram\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\MICRO LAB 26\Desktop\CSharpProgram\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\MICRO LAB 26\Desktop\CSharpProgram\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\MICRO LAB 26\Desktop\CSharpProgram\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\MICRO LAB 26\Desktop\CSharpProgram\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\MICRO LAB 26\Desktop\CSharpProgram\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\MICRO LAB 26\Desktop\CSharpProgram\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+E:\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+E:\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+E:\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+E:\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+E:\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+D:\Cossette Alexis Gabuya\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\Cossette Alexis Gabuya\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+D:\Cossette Alexis Gabuya\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Cossette Alexis Gabuya\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Cossette Alexis Gabuya\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+D:\Cossette Alexis Gabuya\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\Cossette Alexis Gabuya\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
